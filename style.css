@@ -133,6 +133,9 @@ hr{
     .toggle-button {
         display: flex;
     }
+ .wrapped{
+        display: none;
+    }
 
     .navbar-links {
         display: none;
